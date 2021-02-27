@@ -1,5 +1,4 @@
-* svensk 
-* c++
-* bisexual
-
-<3
+- [x] svensk
+- [x] c++
+- [x] aspergers
+- [x] adhd  
